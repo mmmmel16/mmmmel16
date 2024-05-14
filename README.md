@@ -10,7 +10,7 @@ Aspiro a crecer profesionalmente, aprendiendo nuevas tecnologías y aportando va
 ## Proyectos Destacados
 
 ## Contacto
-¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](www.linkedin.com/in/melani-oronás)!
+¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
 
 
 <!--
