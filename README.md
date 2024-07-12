@@ -2,6 +2,7 @@
 
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
 Soy Mel :purple_heart: 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]()
 
 ## Acerca de mi
