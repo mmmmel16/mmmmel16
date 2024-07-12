@@ -1,7 +1,7 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
-# ¡Bienvenido/a a mi perfil de GitHub! Soy Mel 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]()
+# ¡Bienvenido/a a mi perfil de GitHub! :wave:
+Soy Mel [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]() :purple_heart: 
 
 ## Acerca de mi
 Soy una estudiante avanzada en la carrera de Analista Programador, recibida de un curso de diseño UX/UI y UX Research. Además, me encanta diseñar y jugar videojuegos.
@@ -10,21 +10,17 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 
 ## Habilidades
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
   </a>
 </p>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={mmmmel16}&theme=blue-green
 
 ## Proyectos destacados
 
 ## Contacto
 ¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:melisol9@hotmail.com)
-
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/melani-oron%C3%A1s/)
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={mmmmel16}&theme=blue-green
 
 <!--
 **mmmmel16/mmmmel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
