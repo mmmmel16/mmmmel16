@@ -1,7 +1,8 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
-Soy Mel [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]() :purple_heart: 
+Soy Mel :purple_heart: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]()
 
 ## Acerca de mi
 Soy una estudiante avanzada en la carrera de Analista Programador, recibida de un curso de diseño UX/UI y UX Research. Además, me encanta diseñar y jugar videojuegos.
@@ -14,8 +15,6 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
   </a>
 </p>
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={mmmmel16}&theme=blue-green
 
 ## Proyectos destacados
 
