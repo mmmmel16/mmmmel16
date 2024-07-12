@@ -4,7 +4,7 @@
 Soy Mel :purple_heart: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: center;">
-  <p>Soy Mel :purple_heart:</p>
+  <h4>Soy Mel :purple_heart:</h4>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
 </div>
 
