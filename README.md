@@ -3,6 +3,11 @@
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
 Soy Mel :purple_heart: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)](https://git.io/typing-svg)
 
+<div style="display: flex; align-items: center;">
+  <p>Soy Mel :purple_heart:</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
+</div>
+
 ## Acerca de mi
 Soy una estudiante avanzada en la carrera de Analista Programador, recibida de un curso de diseño UX/UI y UX Research. Además, me encanta diseñar y jugar videojuegos.
 Tengo conocimientos en programación, desarrollo de software y bases de datos, diseño de pantallas web y movil junto con su usabilidad, y también realizar investigación UX.
