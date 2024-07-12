@@ -11,12 +11,11 @@ Tengo conocimientos en programación, desarrollo de software y bases de datos, d
 Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los proyectos tratando de aportar valor en ellos.
 
 ## Habilidades
-<p align="center">
+<p align="start">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
   </a>
 </p>
-![Tech Stack](https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact)
 
