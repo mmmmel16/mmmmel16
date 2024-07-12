@@ -2,10 +2,8 @@
 
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
 <div style="display: flex; align-items: center;">
-  <div><h3>Soy Mel :purple_heart:</h3></div>
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
-  </div>
+  <h3>Soy Mel :purple_heart:</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
 </div>
 
 ## Acerca de mi
@@ -23,7 +21,7 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 ## Contacto
 No dudes en contactarme a través de:
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) 
+[![Outlook](https://img.shields.io/badge/Outlook-blueviolet?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-oron%C3%A1s/)
 
 <!--
