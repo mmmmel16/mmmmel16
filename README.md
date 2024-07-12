@@ -17,6 +17,8 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
   </a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact)
+
 ## Proyectos destacados
 
 ## Contacto
