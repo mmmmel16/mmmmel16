@@ -1,11 +1,12 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
 # ¡Bienvenido/a a mi perfil de GitHub! Soy Mel 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]()
 
 ## Acerca de mi
-Soy una estudiante de la carrera de Analista Programador, cursando las últimas materias, con conocimientos en programación, desarrollo de software y bases de datos. Además, me encanta diseñar y jugar videojuegos.
-Aspiro a crecer profesionalmente, aprendiendo nuevas tecnologías y aportando valor a los proyectos en los que participe.
+Soy una estudiante avanzada en la carrera de Analista Programador, recibida de un curso de diseño UX/UI y UX Research. Además, me encanta diseñar y jugar videojuegos.
+Tengo conocimientos en programación, desarrollo de software y bases de datos, diseño de pantallas web y movil junto con su usabilidad, y también realizar investigación UX.
+Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los proyectos tratando de aportar valor en ellos.
 
 ## Habilidades
 <p align="center">
@@ -14,7 +15,7 @@ Aspiro a crecer profesionalmente, aprendiendo nuevas tecnologías y aportando va
   </a>
 </p>
 
-## Proyectos Destacados
+## Proyectos destacados
 
 ## Contacto
 ¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
