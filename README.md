@@ -22,7 +22,7 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 No dudes en contactarme a través de:
 
 [![Outlook](https://img.shields.io/badge/Outlook-blueviolet?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-oron%C3%A1s/)
+[![linkedin](https://img.shields.io/badge/linkedin-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-oron%C3%A1s/)
 
 <!--
 **mmmmel16/mmmmel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
