@@ -16,13 +16,13 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
     <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
   </a>
 </p>
-
+![Tech Stack](https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact)
 
 ## Proyectos destacados
 
 ## Contacto
-¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
+¡No dudes en contactarme a través de [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) o [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
 
 <!--
 **mmmmel16/mmmmel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
