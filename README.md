@@ -2,7 +2,7 @@
 
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
 <div style="display: flex; align-items: center;">
-  <h3>Soy Mel :purple_heart:</h3>
+  <div><h3>Soy Mel :purple_heart:</h3></div>
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
   </div>
