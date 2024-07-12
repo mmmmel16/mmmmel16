@@ -20,6 +20,11 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 ## Contacto
 ¡No dudes en contactarme a través de [correo electrónico](mailto:melisol9@hotmail.com) o en [LinkedIn](https://www.linkedin.com/in/melani-oron%C3%A1s/)!
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:melisol9@hotmail.com)
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/melani-oron%C3%A1s/)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={mmmmel16}&theme=blue-green
 
 <!--
 **mmmmel16/mmmmel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
