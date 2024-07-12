@@ -1,16 +1,16 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
 # ¡Bienvenido/a a mi perfil de GitHub! Soy Mel 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)]
 
 ## Acerca de mi
-Soy una estudiante de la carrera de Analista Programador, cursando las últimas materias, con conocimientos en programación, desarrollo de software y bases de datos. Me encanta diseñar y jugar videojuegos.
+Soy una estudiante de la carrera de Analista Programador, cursando las últimas materias, con conocimientos en programación, desarrollo de software y bases de datos. Además, me encanta diseñar y jugar videojuegos.
 Aspiro a crecer profesionalmente, aprendiendo nuevas tecnologías y aportando valor a los proyectos en los que participe.
 
-## Lenguajes 
+## Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
   </a>
 </p>
 
