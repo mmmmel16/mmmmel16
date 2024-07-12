@@ -1,11 +1,11 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
 # ¡Bienvenido/a a mi perfil de GitHub! :wave:
-Soy Mel :purple_heart: [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas)](https://git.io/typing-svg)
-
 <div style="display: flex; align-items: center;">
-  <h4>Soy Mel :purple_heart:</h4>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
+  <h3>Soy Mel :purple_heart:</h3>
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cadman+bold&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG">
+  </div>
 </div>
 
 ## Acerca de mi
