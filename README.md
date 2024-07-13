@@ -1,6 +1,6 @@
 ![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
 
-# ¡Bienvenido/a a mi perfil de GitHub! :wave:
+# ¡Hola mundooo! :wave:
 <div style="display: flex; align-items: center;">
   <h3>Soy Mel :purple_heart:</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+web;Investigadora+UX;Futura+ingeniera+en+sistemas" alt="Typing SVG"/>
