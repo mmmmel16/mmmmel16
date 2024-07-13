@@ -18,7 +18,9 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 
 ## Proyectos destacados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmmmel16&repo=ProyectoVet-FRONTEND)](https://github.com/mmmmel16/ProyectoVet-FRONTEND)
-https://github.com/mmmmel16/ProyectoVet-FRONTEND
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmmmel16&repo=ProyectoStreaming---FrontEnd)](https://github.com/mmmmel16/ProyectoStreaming---FrontEnd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmmmel16&repo=ProyectoStreaming---BackEnd)](https://github.com/mmmmel16/ProyectoStreaming---BackEnd)
+
 
 ## Contacto
 No dudes en contactarme a través de:
