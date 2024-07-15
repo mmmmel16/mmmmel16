@@ -1,4 +1,4 @@
-![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGithubMel.png)
+![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGitHubMel.png)
 
 # <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave" width="35"> ¡Hola mundooo!
 
