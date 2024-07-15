@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+Programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+Web;Investigadora+UX" alt="Typing SVG" />
   </div>
   <div>
-    <img src="https://github.com/mmmmel16/mmmmel16/blob/main/greet-hand.gif" alt="GIF greet">
+    <img src="https://github.com/mmmmel16/mmmmel16/blob/main/greet-hand.gif" alt="GIF greet" width="50">
   </div>
 </div>
 
