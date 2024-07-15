@@ -20,7 +20,7 @@ Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los
 ## Habilidades
 <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact) <img src="https://github.com/mmmmel16/mmmmel16/blob/main/desktop-computer.gif" width="150">
 
 ## Proyectos destacados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmmmel16&repo=ProyectoVet-FRONTEND&bg_color=e6d8e7&title_color=693b69&text_color=black)](https://github.com/mmmmel16/ProyectoVet-FRONTEND)
@@ -34,17 +34,4 @@ No dudes en contactarme a través de:
 [![Outlook](https://img.shields.io/badge/Outlook-blueviolet?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) 
 [![linkedin](https://img.shields.io/badge/linkedin-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-oron%C3%A1s/)
 
-<!--
-**mmmmel16/mmmmel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/mmmmel16/mmmmel16/blob/main/contact-me.gif" width="150">
