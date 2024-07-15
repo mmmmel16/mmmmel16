@@ -2,13 +2,13 @@
 
 # <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave" width="35"> ¡Hola mundooo!
 
-<div>
+<div style="display:flex; flex-direction:row;">
   <div>
     <h3>Soy Mel :purple_heart:</h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=435&lines=Analista+Programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+Web;Investigadora+UX" alt="Typing SVG" />
   </div>
   <div>
-    <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave">
+    <img src="https://github.com/mmmmel16/mmmmel16/blob/main/greet-hand.gif" alt="GIF greet">
   </div>
 </div>
 
