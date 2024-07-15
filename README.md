@@ -7,7 +7,7 @@
 
 ## Acerca de mi
 Soy una estudiante avanzada en la carrera de Analista Programador, recibida de un curso de diseño UX/UI y UX Research. Además, me encanta diseñar y jugar videojuegos.
-Tengo conocimientos en programación, desarrollo de software y bases de datos, diseño de pantallas web y movil junto con su usabilidad, y también realizar investigación UX.
+Tengo conocimientos en programación, desarrollo de software y bases de datos, diseño de pantallas web y móvil junto con su usabilidad, y también realizar investigación UX.
 Soy responsable, ordenada, me encanta trabajar en equipo y me comprometo con los proyectos tratando de aportar valor en ellos.
 
 ## Habilidades
