@@ -1,5 +1,3 @@
-![PortadaGithub](https://github.com/mmmmel16/mmmmel16/blob/main/PortadaGitHubMel.png)
-
 # <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave" width="35"> ¡Hola mundooo!
 
 <h3>Soy Mel :purple_heart:</h3>
