@@ -9,7 +9,7 @@ Soy una Analista Programadora, con formación adicional en diseño UX/UI y UX Re
 ## Habilidades
 <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea" />
 
-![Top Langs](https://github-readme-stats-aixs7uqiz-mels-projects-61c7a0cf.vercel.app/api/top-langs/?username=mmmmel16&layout=compact) <img src="https://github.com/mmmmel16/mmmmel16/blob/main/desktop-computer.gif" width="150">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmmel16&layout=compact) <img src="https://github.com/mmmmel16/mmmmel16/blob/main/desktop-computer.gif" width="150">
 
 ## Proyectos destacados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mmmmel16&repo=ProyectoVet-FRONTEND&bg_color=e6d8e7&title_color=693b69&text_color=black)](https://github.com/mmmmel16/ProyectoVet-FRONTEND)
