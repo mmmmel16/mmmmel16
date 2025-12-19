@@ -1,10 +1,14 @@
-# <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave" width="35"> ¡Hola mundo! Soy Mel - 
-<h3 align="center">Analista Programadora, Desarrolladora frontend y Diseñadora UX/UI: enfocada en crear experiencias digitales funcionales y centradas en el usuario</h3>
+# <img src="https://github.com/mmmmel16/mmmmel16/blob/main/wave-hello.gif" alt="GIF Wave" width="35"> ¡Hola mundo! Soy Mel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=290&height=40&lines=Analista+Programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+Web;Investigadora+UX" alt="Typing SVG" /> 
+<p align="center">
+  <img src="https://github.com/mmmmel16/mmmmel16/blob/main/Laptop.gif" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arvo&size=25&pause=100&color=AA87A8&vCenter=true&random=false&width=290&height=40&lines=Analista+Programadora;Dise%C3%B1adora+UX%2FUI;Desarrolladora+Web;Investigadora+UX" alt="Typing SVG" /> 
+</p>
 
 ## Acerca de mi
-Soy una Analista Programadora, desarrolladora Frontend con formación en diseño UX/UI. Poseo sólidos conocimientos en programación, desarrollo de software, bases de datos, diseño de pantallas web y móviles, así como en análisis de usabilidad e investigación UX. Soy reconocida por mi capacidad para comunicar ideas de manera efectiva y trabajar colaborativamente en equipos multidisciplinarios. Mi enfoque en la resolución de problemas y mi habilidad para adaptarme a nuevos desafíos me permiten contribuir de manera proactiva y eficiente en proyectos. También destaco mi creatividad para proponer soluciones innovadoras, mi compromiso con la calidad y el cumplimiento de los plazos. Mi habilidad para escuchar activamente y mostrar empatía me ayuda a entender las necesidades de los usuarios creando experiencias significativas. Estas habilidades blandas complementan mis competencias técnicas, asegurando mi capacidad para aportar valor en cualquier entorno profesional. Mi idioma nativo es el español y tengo un nivel intermedio de inglés.
+Soy una Analista Programadora enfocada en desarrollo Frontend con formación en diseño UX/UI. Poseo sólidos conocimientos en programación, desarrollo de software, bases de datos, diseño de pantallas web y móviles, así como en análisis de usabilidad e investigación UX. Soy reconocida por mi capacidad para comunicar ideas de manera efectiva y trabajar colaborativamente en equipos multidisciplinarios. Mi enfoque en la resolución de problemas y mi habilidad para adaptarme a nuevos desafíos me permiten contribuir de manera proactiva y eficiente en proyectos. También destaco mi creatividad para proponer soluciones innovadoras, mi compromiso con la calidad y el cumplimiento de los plazos. Mi habilidad para escuchar activamente y mostrar empatía me ayuda a entender las necesidades de los usuarios creando experiencias significativas. Estas habilidades blandas complementan mis competencias técnicas, asegurando mi capacidad para aportar valor en cualquier entorno profesional. Mi idioma nativo es el español y tengo un nivel intermedio de inglés.
 
 ## Habilidades
 <img src="https://skillicons.dev/icons?i=github,git,c,cpp,java,html,css,js,bootstrap,jquery,mysql,php,py,react,figma,vscode,idea,tailwind,typescript,postman,angular,vite" />
@@ -22,4 +26,4 @@ No dudes en contactarme a través de:
 [![Outlook](https://img.shields.io/badge/Outlook-blueviolet?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:melisol9@hotmail.com) 
 [![linkedin](https://img.shields.io/badge/linkedin-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-oron%C3%A1s/)
 
-<img src="https://github.com/mmmmel16/mmmmel16/blob/main/contact-me.gif" width="150">
+<img src="https://github.com/mmmmel16/mmmmel16/blob/main/email.gif" />
